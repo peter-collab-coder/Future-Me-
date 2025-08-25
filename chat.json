@@ -1,0 +1,16 @@
+{
+  "requesterUsername": "peter-collab-coder",
+  "requesterAvatarIconUri": {
+    "$mid": 1,
+    "path": "/u/227826172",
+    "scheme": "https",
+    "authority": "avatars.githubusercontent.com",
+    "query": "v=4"
+  },
+  "responderUsername": "GitHub Copilot",
+  "responderAvatarIconUri": {
+    "id": "copilot"
+  },
+  "initialLocation": "panel",
+  "requests": []
+}
